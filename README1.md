@@ -1,4 +1,4 @@
-I am learing basics of html
-writing a paragragh
-adding buttons and links 
-opening the links in a new tab
+I am learing basics of html.
+Writing a paragragh.
+Adding buttons and links.
+Opening the links in a new tab.
